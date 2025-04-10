@@ -7,7 +7,7 @@ import json
 import google.generativeai as genai
 
 # --- Configure Gemini ---
-genai.configure(api_key="AIzaSyAr8TJOiua07BEox_KrlgQ6QoZXJaKhL2I")
+genai.configure(api_key="API here")
 
 app = FastAPI()
 
