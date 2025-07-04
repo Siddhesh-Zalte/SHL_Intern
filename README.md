@@ -1,4 +1,4 @@
-> **SHL** **Assessment** **Recommender** for Peronsal project
+> **SHL** **Assessment** **Recommender** for Personal project
 > 
 >
 > **by** **Siddhesh** **Zalte(MIT** **ADT** **University** **Pune)**
